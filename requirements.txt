@@ -1,0 +1,16 @@
+certifi==2018.4.16
+chardet==3.0.4
+coreapi==2.3.3
+coreschema==0.0.4
+Django==2.0.5
+djangorestframework==3.8.2
+idna==2.6
+itypes==1.1.0
+Jinja2==2.10
+MarkupSafe==1.0
+Pygments==2.2.0
+python-chess==0.23.5
+pytz==2018.4
+requests==2.18.4
+uritemplate==3.0.0
+urllib3==1.22
