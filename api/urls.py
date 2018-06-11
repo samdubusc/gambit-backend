@@ -4,7 +4,8 @@ from api import views
 
 router = DefaultRouter()
 router.register(r'matches', views.MatchViewSet)
-router.register(r'users', views.UserViewSet)
+#router.register(r'users', views.UserViewSet)
+router.register(r'players', views.PlayerViewSet)
 
 urlpatterns = [
     url(r'^', include(router.urls)),
