@@ -6,7 +6,7 @@ Django==2.0.5
 djangorestframework==3.8.2
 idna==2.6
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 Pygments==2.2.0
 python-chess==0.23.5
